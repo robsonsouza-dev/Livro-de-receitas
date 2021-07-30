@@ -1,0 +1,21 @@
+2 pontos no fim da palavra é possível por um emotion através do nome
+
+# Strogonoff de Frango :chicken:
+
+2 * antes e 2 * após a palavra fica em negrito
+
+**Strogonoff de Frango**
+
+anderline antes e anderline após a palavra fica em negrito
+
+_Strogonoff de Frango_
+
+
+
+### Ingredientes:
+
+espaço e - gera uma lista com marcador
+
+- exemplo
+- exemplo 1
+
